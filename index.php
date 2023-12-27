@@ -1,7 +1,7 @@
 <?php
-$token = "Sizning_Telegram_tokeningiz";
+$token = "1492122720:AAHZdu3yX5Ro4wav1CcyVEtac0zg9Zqo8n4";
 
-$botUsername = "Sizning_bot_usernameingiz";
+$botUsername = "@Ggddffggbot";
 
 $botAPI = "https://api.telegram.org/bot".$token."/";
 
